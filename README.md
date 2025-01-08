@@ -1,2 +1,2 @@
 # java-basico
-Rep para armazenar conteúdo de Java Básico
+Repositório para armazenar conteúdo de Java Básico
