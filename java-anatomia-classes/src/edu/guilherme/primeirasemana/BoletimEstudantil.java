@@ -5,11 +5,11 @@ public class BoletimEstudantil {
         
         int mediaFinal = 6;
 
-        if (mediaFinal < 6) 
+        if (mediaFinal < 6)
             System.out.println("Reprovado");
-         else if (mediaFinal == 6)
+        else if (mediaFinal == 6)
             System.out.println("Prova Minerva");
-         else
+        else
             System.out.println("Aprovado");
     }
 }
