@@ -1,4 +1,4 @@
-package edu.guilherme.primeirasemana;
+package edu.guilherme.aulas;
 public class BoletimEstudantil {
 
     public static void main(String[] args) {
