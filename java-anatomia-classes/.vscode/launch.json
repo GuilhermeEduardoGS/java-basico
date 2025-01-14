@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.guilherme.aulas.BoletimEstudantil",
+            "projectName": "java-basico_28af9922"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.guilherme.aulas.MinhaClasse",
+            "projectName": "java-basico_28af9922"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.guilherme.aulas.Operadores",
+            "projectName": "java-basico_28af9922"
+        },
+        {
+            "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "edu.guilherme.aulas.SobreMim",
+            "projectName": "java-basico_28af9922"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.guilherme.aulas.TiposVariaveis",
+            "projectName": "java-basico_28af9922"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.guilherme.exercicios.smarttv.Usuario",
+            "projectName": "java-basico_28af9922"
+        }
+    ]
+}
